@@ -1,0 +1,16 @@
+{
+  "scripts/inventory_enron.py": "b75672f2cd3ccd8a671366fe00759fbe69fb395b6023bbbca8950c79f9eaadc2",
+  "scripts/prepare_email_candidates.py": "ebaa03a23d22735dc66968be61c986535f97f28d574e5c58a5a4414294e5637c",
+  "scripts/screen_email_eligibility.py": "ca8eade37934e4821c338907b797a94856507d8034e6ad45a8ae860cee394110",
+  "scripts/export_bec_review.py": "e04a72f1a4f24f2410b005d4bf5f7b50a58e25a4c7615b08fe97802460a78df6",
+  "scripts/curate_bec_candidates.py": "753633221c82ec9e10d017325dd7de8cea34daa749c5c47ff0436b9f32636525",
+  "scripts/build_provisional_pool.py": "a8478e0b2869fba9f38c066237480d72bf43a2019bf3971472ad718191173d2e",
+  "scripts/run_primary_lr.py": "0042c0f07450b5db1b6e716c1d8779ac1f5b9ab4cb97f3a9a58026928611c006",
+  "scripts/run_distilbert_cpu.py": "5f3e8ff44a2ed7d1ed6344a41ffcad624d84c3fb250cc544a34aa15ec02f72a9",
+  "README.md": "10a7885b6ebde84e6ee6a62d1f3914b24947564bfcacce14c2f2c19862e242e2",
+  "requirements_core.txt": "4bf865afab4ed28b46f42a983e94d2632b62c79e97fedb89496b3304a9a2e2d4",
+  "run.sh": "3735da471138d3bc104840093a890f4f2cc7476c5e3888af07484bc7cc84fbeb",
+  ".gitignore": "9345fce33b852a81fc2e982bfcdc09e5f8d1f50c4ada3b94e0c8c374e0b9f3b3",
+  "aggregate_results/lr_results_summary.json": "2938625e01c3ed972d93aed881cf5772dbc045adbde75960e482497902077a13",
+  "aggregate_results/distilbert_results_summary.json": "cc13f0245f4fe48dbc74f2cf4f18b1b86b8193b56150354b2a006ca52aded6cf"
+}

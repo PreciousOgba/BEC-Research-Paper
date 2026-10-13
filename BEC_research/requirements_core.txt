@@ -1,0 +1,10 @@
+# Verified core versions from the execution summaries. Python runtime: 3.14.7.
+# The recorded torch build was 2.14.1+cpu; wheel availability varies by platform.
+numpy==2.5.3
+scikit-learn==1.9.1
+torch==2.14.1
+transformers==5.19.0
+huggingface-hub==2.2.0
+tokenizers==0.23.3
+langdetect==1.0.9
+# joblib is a scikit-learn dependency; full transitive freeze must be exported locally.
